@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SampleJetPack</string>
+
+    <!-- ERROR -->
+    <string name="error_message_io">Masalah koneksi, silahkan coba lagi.</string>
+    <string name="error_message_password_not_match">Kata sandi salah</string>
+    <string name="error_message_default">Terjadi kesalahan. Silahkan coba lagi.</string>
+    <string name="error_message_time_out">Waktu habis, silahkan coba lagi.</string>
+    <string name="error_message_connection_failed">Gagal melakukan koneksi ke server.</string>
+    <string name="error_message_invalid_phone_number">Nomor telepon tidak valid.</string>
+
+    <!--DIALOG-->
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_yes">Yes</string>
+    <string name="dialog_action_no">No</string>
+    <string name="dialog_error_title">Sorry</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_list_title">Choose</string>
+</resources>
